@@ -1,3 +1,7 @@
+//Given JSON Iterate over all for loops (for, for in, for of, for each)
+
+
+
 let json = [
   {"name": "Parthiban Sivanesan"},
   {"location": "Chennai, Tamilnadu"},
